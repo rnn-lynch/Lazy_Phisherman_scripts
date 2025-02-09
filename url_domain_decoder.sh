@@ -11,7 +11,7 @@
 # @raycast.author Rónán Lynch (ZeroCraic)
 # @raycast.description Decodes Proofpoint, SafeLink, and URL Encode links directly from the clipboard and allows the decoded link to be pasted from clipboard.
 
-# Set up in raycast as hotkey(walkthrough:https://expel-io.atlassian.net/wiki/x/NIDrFQE), copy safelink/proofpoint link, press your assaigned hotkeys, 
+# Set up in raycast as hotkey, copy safelink/proofpoint link, press your assaigned hotkeys, 
 # the decoded link will be printed and also added to your clipboard for pasting.
 
 # Fetch the URL from the clipboard
