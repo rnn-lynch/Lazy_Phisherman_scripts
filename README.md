@@ -25,6 +25,6 @@ For Quick email add, copy the link with embedded email (b64 encoded or plain str
 
 I found this helpful but if you can improve please do, just trying to make everyone’s life a lil easier .
 
-
+https://www.loom.com/share/229adeeb751b43beb5f1bad8bc38bbc6?sid=e5d94bc9-d486-4023-b9ab-b916e2703ed0
 
 
